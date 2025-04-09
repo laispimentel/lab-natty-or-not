@@ -21,7 +21,7 @@ O resultado foi um podcast curto, mas informativo, com objetivo de conscientizar
 - Áudio limpo, com narração clara e conteúdo acessível;
 - Projeto completo publicado no GitHub, com imagem de capa e README estruturado.
 
-🎧 **Ouça agora:** [Clique aqui para ouvir o podcast](../ttsmaker-file-2025-4-9-15-5-28.mp3)
+🎧 **Ouça agora:** [Clique aqui para ouvir o podcast](Podcast-project/ttsmaker-file-2025-4-9-15-5-28.mp3)
 
 ## 💭 Reflexão
 Criar conteúdo usando IA foi surpreendentemente fluido.  
